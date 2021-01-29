@@ -1,5 +1,5 @@
 1. The function was doing string concatination. To fix this i simply converted both of the strings to numbers on line 9.
-2. I fixed the code as you can see in the "sol.jpg" file.
+2. I fixed the code as you can see in the "sol.jpg" file..
 
 1. citylots.json
 2. part2.js
